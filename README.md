@@ -1,6 +1,12 @@
 # Pemrograman-Komputer
-Repository tugas Pemrograman Komputer semester 3
+Repository tugas Pemrograman Komputer semester 3 kelas D
 
-Nama : Bagas Abiyu Kumara
+Anggota Kelompok
 
-Kelas : D
+Bagas Abiyu Kumara
+
+Fadillah Nor Azmi
+
+Pria Rizki Baihaqi
+
+Salsabila Ramadhani
