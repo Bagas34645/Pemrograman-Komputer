@@ -1,7 +1,7 @@
 # Pemrograman-Komputer
 Repository tugas Pemrograman Komputer semester 3 kelas D
 
-##Anggota Kelompok
+## Anggota Kelompok
 
 Bagas Abiyu Kumara
 
